@@ -1,0 +1,102 @@
+.inner {
+    height: 300px;
+    width: 500px;
+    background-color: rgb(126, 138, 132);
+    margin: 0 auto;
+}/* 内部盒子的基本配置 */
+
+#first {
+    width: 600px;
+    border-radius: 60px;
+    background-color: rgb(126, 167, 200);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}/*第一个盒子 */
+
+#second {
+    width: 600px;
+    border-radius: 60px;
+    background-color:rgb(126, 167, 200);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+/*第二个盒子 */
+#third {
+    width: 600px;
+    border-radius: 60px;
+    background-color:rgb(126, 167, 200);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+/*第三个盒子 */
+
+#fourth {
+    width: 600px;
+    border-radius: 60px;
+    background-color:rgb(126, 167, 200);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+/*第四个盒子 */
+#fifth {
+    width: 600px;
+    border-radius: 60px;
+    background-color: rgb(126, 167, 200);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    margin-bottom: 100px
+}
+/*第五个盒子 */
+/* 头部第一层 */
+.head_1{
+    width: 500px;
+    height: 60px;
+    background-color: rgb(255, 165, 0);
+}
+/* 头部第二层 */
+.head_2{
+    width: 500px;
+    height: 30px;
+    background-color: rgb(168, 121, 56);
+}
+/* 底部 */
+.foot{
+    width: 500px;
+    height: 50px;
+    background-color:bisque;
+    margin-top: 200px;
+}
+/* 第三个配图右边 */
+.right_1{
+    height: 300px;
+    width: 150px;
+    background-color: rgb(226, 138, 132);
+    float: left;
+}
+/* 第四个配图右边 */
+.right_2{
+    height: 190px;
+    width: 150px;
+    background-color: rgb(226, 138, 132);
+}
+/* 第五个配图左右两边 */
+.right_3{
+    height: 160px;
+    width: 130px;
+    background-color: rgb(226, 138, 132);
+}
+
+button{
+    width:100px;
+    height: 100px;
+    background-color: palevioletred;
+}
